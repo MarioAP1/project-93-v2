@@ -1,0 +1,32 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+#login_button
+{
+    border-radius: 15px;
+    border-color: white;
+}
+
+#user_name
+{
+    border-radius: 15px;
+    border-color: white;
+}
+
+.Kwitter_text
+{
+    color: white;
+}
+
+#log_out_btn
+{
+    
+}
